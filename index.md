@@ -1,5 +1,5 @@
 # Nicholas Willison's User Page
-![image](screenshots/Nick.png)
+<img src="screenshots/Nick.png" width="180" height="200" />
 
 **Hello! I am _Nicholas Willison_, ~~the coolest guy ever~~, and this is my User Page.** This is my first time using markdown (which I learned from [documentation](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)), so I apologize if anything looks weird, but as my dad says,
 > What is trying something new without any hiccups
